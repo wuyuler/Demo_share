@@ -94,7 +94,7 @@
         AppSecret="64020361b8ec4c99936c0e3999a9f249"
 		UserName="gh_afb25ac019c9"
 		Path="pages/index/index.html?id=1"
-        BypassApproval="false"
+        BypassApproval="true"
 		WithShareTicket = "true"
 		MiniprogramType = "0"
         Enable="true" />

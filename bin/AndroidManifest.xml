@@ -67,6 +67,8 @@
 <!-- 填写您从Mob开发者后台中得到的Appkey和AppSecret -->
 <meta-data android:name="Mob-AppKey" android:value="262958d869f22"/>
 <meta-data android:name="Mob-AppSecret" android:value="050b70269a490d1d6e9ed47475399143"/>
+	
+
     </application>
 
 </manifest>
